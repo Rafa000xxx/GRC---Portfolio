@@ -1,6 +1,6 @@
 # Internal Attestation of Compliance: ISO 27001 (Annex A.5)
 **Date of Audit:** March 15, 2026  
-**Auditor:** [Your Name], Senior GRC Analyst  
+**Auditor:** Rafael Ventura, GRC Analyst  
 **Audit Scope:** Identity and Access Management (IAM) for Offshore Support Operations  
 
 ---
@@ -19,7 +19,7 @@ Based on the evidence gathered during the Q1 2026 internal audit, the **Offshore
 * `SOP-JIT-001`: Procedure documentation for temporary privilege elevation.
 
 ### 4. Auditor Certification
-I, [Your Name], certify that the controls mentioned above were tested via inspection and observation. No material weaknesses were identified during this audit cycle.
+I, Rafael Ventura, certify that the controls mentioned above were tested via inspection and observation. No material weaknesses were identified during this audit cycle.
 
-**Signature:** __________________________  
-**Title:** Senior GRC Analyst
+**Signature:** Rafael Ventura  
+**Title:** GRC Analyst
